@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""
+Even or Odd
+:worth = 8 kyu
+:url   = https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+:tags  = algorithms, math, algorithms, fundamentals
+"""
 def even_or_odd(number: int) -> str:
     """
     :param number: The number to check.
