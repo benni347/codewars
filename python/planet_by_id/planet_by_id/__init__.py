@@ -25,3 +25,17 @@ def get_planet_name(planet_id):
         return "Uranus"
     if planet_id == 8:
         return "Neptune"
+
+
+# The code below isn't mine but it is the best practice.
+# def get_planet_name(id):
+#     return {
+#         1: "Mercury",
+#         2: "Venus",
+#         3: "Earth",
+#         4: "Mars",
+#         5: "Jupiter",
+#         6: "Saturn",
+#         7: "Uranus",
+#         8: "Neptune",
+#     }.get(id, None)
