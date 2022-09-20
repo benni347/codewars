@@ -1,5 +1,5 @@
 import unittest
-from build import generate_shape
+from build_square import generate_shape
 
 
 class MyTestCase(unittest.TestCase):
