@@ -13,6 +13,5 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(find_uniq([0.8, 0.8, 0.8, 0.8, 0.11]), 0.11)
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

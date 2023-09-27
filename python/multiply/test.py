@@ -9,5 +9,5 @@ class TestMultiply(unittest.TestCase):
         self.assertEqual(multiply.multiply(2, 0.5), 1)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

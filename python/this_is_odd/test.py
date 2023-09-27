@@ -19,5 +19,5 @@ class TestOdd(unittest.TestCase):
         self.assertEqual(odd.is_odd(1.5), False)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

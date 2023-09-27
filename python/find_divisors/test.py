@@ -20,5 +20,5 @@ class TestDivisors(unittest.TestCase):
         self.assertEqual(find_divisors.divisors(13), "13 is prime")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

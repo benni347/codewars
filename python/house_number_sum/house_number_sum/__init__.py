@@ -6,6 +6,7 @@ def house_numbers_sum(inp):
 
         sum_var += inp[i]
 
+
 # Not my solution, but best practice:
 # def house_numbers_sum(inp):
 #     return sum(inp[:inp.index(0)])

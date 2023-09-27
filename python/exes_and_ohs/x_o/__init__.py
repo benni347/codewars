@@ -15,4 +15,4 @@ def xo(s: str) -> bool:
     :param s:
     :return:
     """
-    return s.lower().count('x') == s.lower().count('o')
+    return s.lower().count("x") == s.lower().count("o")

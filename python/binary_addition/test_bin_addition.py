@@ -11,5 +11,5 @@ class TestBinAddition(unittest.TestCase):
         self.assertEqual(bin_addition.add_binary(51, 12), "111111")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

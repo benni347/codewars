@@ -10,5 +10,5 @@ class TestBasic(unittest.TestCase):
         self.assertEqual(convert_str_int.string_to_number("-7"), -7)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

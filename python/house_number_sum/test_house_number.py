@@ -16,5 +16,5 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(house_numbers_sum(inp), exp)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

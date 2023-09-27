@@ -15,7 +15,7 @@ def find_uniq(arr):
                 return arr[i]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # find_uniq([3, 10, 3, 3, 3])
     # find_uniq([3, 10, 3, 3, 3])
     # unittest.main()

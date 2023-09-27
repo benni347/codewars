@@ -16,6 +16,5 @@ class TestXO(unittest.TestCase):
         self.assertEqual(x_o.xo("x1090"), False)
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

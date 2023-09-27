@@ -18,7 +18,7 @@ def divisors(integer):
         if integer % i == 0:
             divisors_list.append(i)
     if len(divisors_list) == 1:
-        return f'{integer} is prime'
+        return f"{integer} is prime"
     # remove 1 from divisors_list
     divisors_list.remove(1)
     return divisors_list
